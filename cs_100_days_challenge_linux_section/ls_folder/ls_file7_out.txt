@@ -1,0 +1,9 @@
+total 0
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:37 ls_file.txt
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:38 ls_file1.txt
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:38 ls_file2.txt
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:38 ls_file3.txt
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:38 ls_file4.java
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:38 ls_file5.html
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:38 ls_file6.kt
+-rwxrwxrwx 1 nian nian 0 Nov 18 13:39 ls_file7_out.txt

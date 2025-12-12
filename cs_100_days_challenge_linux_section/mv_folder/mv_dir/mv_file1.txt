@@ -1,0 +1,2 @@
+This is the changed content of mv file1.
+Fri Nov 21 16:17:02 UTC 2025

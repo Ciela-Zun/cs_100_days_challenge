@@ -1,0 +1,91 @@
+    1  pwd
+    2  ls
+    3  mkdir cs_100_days_challenge
+    4  ls
+    5  pwd
+    6  time
+    7  date
+    8  ls
+    9  pwd
+   10  ls
+   11  cd /
+   12  ls
+   13  wsl
+   14  ls
+   15  date
+   16  ls
+   17  pwd
+   18  ls Downloads/
+   19  ls /
+   20  ls ~
+   21  cd /
+   22  cd ~
+   23  clear
+   24  ls 
+   25  date
+   26  ls
+   27  pwd
+   28  ls Downloads/
+   29  ls /
+   30  ls ~
+   31  cd /
+   32  cd ~
+   33  cd /mnt/c/Users/USER/
+   34  ls
+   35  clear
+   36  cd Downloads/
+   37  cd CS_100_Days_Challenge/
+   38  touch ls_file.txt
+   39  ls
+   40  cd ls_file.txt
+   41  ls *.txt
+   42  ls ..
+   43  ls ../..
+   44  cd
+   45  cd /mnt/c/Users/USER/
+   46  ls -l
+   47  ls -a
+   48  clear
+   49  ls -al
+   50  ls -lS
+   51  clear
+   52  cd Downloads/
+   53  cd CS_100_Days_Challenge/
+   54  touch ls_file1.txt ls_file2.txt ls_file3.txt ls_file4.java ls_file5.html ls_file6.kt
+   55  ls *.txt
+   56  ls -lh
+   57  ls -ls
+   58  ls -lt
+   59  touch ls_file7.java
+   60  ls -lt
+   61  history
+   62  cd Downloads/
+   63  ls 
+   64  cd CS_100_Days_Challenge/
+   65  ls -lS > ls_file7_out.txt
+   66  cat ls_file7_out.txt
+   67  ls > ls_file8.txt
+   68  cat ls_file8.txt
+   69  cd ~
+   70  cd /mnt/c/Users/USER/Downloads/
+   71  ls -d */
+   72  cd CS_100_Days_Challenge/
+   73  mkdir folder{1,2} 
+   74  ls
+   75  mkdir folder {3,4,5}
+   76  ls
+   77  rmdir folder {3,4,5}
+   78  ls
+   79  mkdir folder{3,4,5}
+   80  ls
+   81  ls -d folder{1,2}
+   82  ls -d f*
+   83  man ls
+   84  touch ls_file_day6.txt
+   85  date > ls_file_day6.txt
+   86  cat ls_file_day6.txt
+   87  history >> ls_file_day6.txt
+   88  cat ls_file_day6.txt
+   89  clear
+   90  ls -l
+   

@@ -1,0 +1,267 @@
+    1  pwd
+    2  ls
+    3  mkdir cs_100_days_challenge
+    4  ls
+    5  pwd
+    6  time
+    7  date
+    8  ls
+    9  pwd
+   10  ls
+   11  cd /
+   12  ls
+   13  wsl
+   14  ls
+   15  date
+   16  ls
+   17  pwd
+   18  ls Downloads/
+   19  ls /
+   20  ls ~
+   21  cd /
+   22  cd ~
+   23  clear
+   24  ls 
+   25  date
+   26  ls
+   27  pwd
+   28  ls Downloads/
+   29  ls /
+   30  ls ~
+   31  cd /
+   32  cd ~
+   33  cd /mnt/c/Users/USER/
+   34  ls
+   35  clear
+   36  cd Downloads/
+   37  cd CS_100_Days_Challenge/
+   38  touch ls_file.txt
+   39  ls
+   40  cd ls_file.txt
+   41  ls *.txt
+   42  ls ..
+   43  ls ../..
+   44  cd
+   45  cd /mnt/c/Users/USER/
+   46  ls -l
+   47  ls -a
+   48  clear
+   49  ls -al
+   50  ls -lS
+   51  clear
+   52  cd Downloads/
+   53  cd CS_100_Days_Challenge/
+   54  touch ls_file1.txt ls_file2.txt ls_file3.txt ls_file4.java ls_file5.html ls_file6.kt
+   55  ls *.txt
+   56  ls -lh
+   57  ls -ls
+   58  ls -lt
+   59  touch ls_file7.java
+   60  ls -lt
+   61  history
+   62  cd Downloads/
+   63  ls 
+   64  cd CS_100_Days_Challenge/
+   65  ls -lS > ls_file7_out.txt
+   66  cat ls_file7_out.txt
+   67  ls > ls_file8.txt
+   68  cat ls_file8.txt
+   69  cd ~
+   70  cd /mnt/c/Users/USER/Downloads/
+   71  ls -d */
+   72  cd CS_100_Days_Challenge/
+   73  mkdir folder{1,2} 
+   74  ls
+   75  mkdir folder {3,4,5}
+   76  ls
+   77  rmdir folder {3,4,5}
+   78  ls
+   79  mkdir folder{3,4,5}
+   80  ls
+   81  ls -d folder{1,2}
+   82  ls -d f*
+   83  man ls
+   84  touch ls_file_day6.txt
+   85  date > ls_file_day6.txt
+   86  cat ls_file_day6.txt
+   87  history >> ls_file_day6.txt
+   88  cat ls_file_day6.txt
+   89  clear
+   90  ls -l
+   91  cd /
+   92  cd ../
+   93  cd ..
+   94  cd d/
+   95  mkdir CS_100_Days_Challenge
+   96  ls
+   97  cd CS_100_Days_Challenge/
+   98  mkdir ls_folder
+   99  mkdir cd_folder
+  100  mkdir cat_folder
+  101  ls
+  102  cd /
+  103  cd mnt/d/CS_100_Days_Challenge/
+  104  cd -
+  105  cd ~
+  106  cd -
+  107  cd ~
+  108  cd /mnt/d/CS_100_Days_Challenge/
+  109  cd ..
+  110  cd -
+  111  cd ../..
+  112  ce
+  113  dcd -
+  114  cd -
+  115  ls
+  116  cd 'My Folder'/
+  117  cd ..
+  118  cd "My Folder"/
+  119  cd ..
+  120  cd My\ Folde/
+  121  cd My\ Folder/
+  122  cd ..
+  123  cd cd_folder
+  124  touch cd_commands.txt
+  125  ls
+  126  cat date > cd_commands.txt
+  127  date
+  128  history
+  129  cat histroy > cd_commands.txt
+  130  history > cd_commands.txt
+  131  cat history
+  132  cat cd_commands.txt 
+  133  date >> cd_commands.txt 
+  134  cat cd_commands.txt 
+  135  clear
+  136  vf
+  137  clear
+  138  date
+  139  cd ..
+  140  mkdir cat_folder
+  141  cd cat_folder/
+  142  cat
+  143  touch cat_file1.txt cat_file2.txt
+  144  date > cat_file1.txt
+  145  pwd > cat_file2.txt
+  146  cat cat_file1.txy
+  147  cat cat_file1.txt
+  148  cat cat_file2.txt
+  149  cat cat_file1.txt cat_file2.txt 
+  150  touch cat_file3.txt
+  151  cat cat_file3.txt 
+  152  cat -b cat_file3.txt 
+  153  cat -n cat_file4.txt
+  154  cat -n cat_file3.txt
+  155  cat -b cat_file3.txt 
+  156  cat -s cat_file3.txt 
+  157  cat cat_file3.txt 
+  158  cat -s cat_file3.txt 
+  159  ls -l
+  160  cat -E cat_file3.txt
+  161  ls
+  162  clear
+  163  touch cat_file4.txt
+  164  ls
+  165  touch cat_file4_combined.txt
+  166  ls
+  167  cat cat_file1.txt cat_file2.txt cat_file3.txt 
+  168  cat cat_file1.txt cat_file2.txt cat_file3.txt > cat_file4_combined.txt 
+  169  cat cat_file4_combined.txt 
+  170  history
+  171  history >> cat_file4_combined.txt 
+  172  cat cat_file4_combined.txt 
+  173  cat cat_file4_combined.txt > day7.txt
+  174  cat cat_file4_combined.txt > cat_file_new.txt
+  175  cat cat_file_new.txt 
+  176  cd ..
+  177  mkdir command_histories
+  178  touch day_7.txt
+  179  history > day_7.txt
+  180  cat day_7.txt
+  181  date >> day_7.txt
+  182  cat day_7.txt 
+  183  mkdir 'My Languages'
+  184  mkdir "My Projects"
+  185  mkdir Linux\ Tutorials
+  186  ls
+  187  mkdir 'My Labs' 'My Notes'
+  188  ls
+  189  mkdir Linux\ Tutorials/chapter1
+  190  ls Linux\ Tutorials/
+  191  ls
+  192  mkdir Linux\ Tutorials/chapter2
+  193  ls Linux\ Tutorials/
+  194  mkdir Linux\ Tutorials/chapter{3,4,5}
+  195  ls Linux\ Tutorials/
+  196  mkdir Linux\ Tutorials/{notes,commands}
+  197  ls Linux\ Tutorials/
+  198  mkdir Java\ Tutorials/chapter1
+  199  mkdir -p Java\ Tutorials/chapter{1,2,3}
+  200  ls
+  201  ls Java\ Tutorials/
+  202  mkdir -pv React\ Projects/{src,components,nodes}
+  203  cd ..
+  204  cd command_histories/
+  205  touch day8.txt
+  206  date
+  207  history > day8.txt
+  208  date >> day8.txt
+  209  cat day8.txt
+  210  clear
+  211  cd ..
+  212  touch ls_file.txt
+  213  ls
+  214  touch ls_file1.txt ls_file2.txt ls_file3.txt ls_file4.java ls_file5.html ls_file6.kt
+  215  ls
+  216  ls *.txt
+  217  ls -lS > ls_file7_out.txt
+  218  cat ls_file7_out.txt
+  219  ls > ls_file8.txt
+  220  cat ls_file8.txt
+  221  touch ls_file_day6.txt
+  222  date > ls_file_day6.txt
+  223  cat > ls_file_day6.txt
+  224  history >> ls_file_day6.txt
+  225  cat ls_file_day6.txt
+  226  clear
+  227  mkdir delete_folder
+  228  ls
+  229  rmdir delete_folder/
+  230  ls
+  231  mkdir java/ kotlin/ javascript/ python/
+  232  ls
+  233  mkdir english/ japanese/ thai
+  234  ls
+  235  touch english/chapter1/lesson1.txt
+  236  mkdir english/chapter1
+  237  touch english/chapter1/lesson1.txt
+  238  ls english/chapter1/
+  239  rmdir english/ japanese/ thai
+  240  ls
+  241  mkdir -p japanese/chapter1
+  242  ls
+  243  rmdir java/ kotlin/ javascript/ python/
+  244  ls
+  245  rm -r english/
+  246  ls
+  247  rm -r japanese/
+  248  ls
+  249  clear
+  250  mkdir languages/
+  251  mkdir -p languages/english/chapter1
+  252  ls -R languages/
+  253  rmdir languages/english/chapter1/
+  254  ls
+  255  ls -R languages/
+  256  mkdir languages/english/vocab
+  257  ls
+  258  ls -R
+  259  rmdir -p languages/english/vocab
+  260  ls
+  261  mkdir -pv languages/english/vocab
+  262  rmdir -pv languages/english/vocab/
+  263  cd
+  264  cd /mnt/d/CS_100_Days_Challenge/command_histories/
+  265  touch day9.txt
+  266  history > day9.txt
+Wed Nov 19 13:38:46 UTC 2025
